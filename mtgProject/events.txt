@@ -1,0 +1,437 @@
+[u'<table border="0" width="100%">\n
+<tr>\n
+
+<td valign="top" width="34%">\n\t\t<table class="Stable" width="330" border="0">\n\t\t
+<tr><td colspan="6"><div class="w_title" align="center">Metagame Breakdown</div></td></tr>\n\t\t
+\n\t\t
+<tr><td colspan="6" class="S14" align="center"><select name="meta" onchange="window.open(this.value,\'_top\')" style="width:300px;"><option value="archetype?a=348&amp;f=MO&amp;meta=51">Last 2 Months</option><option value="archetype?a=348&amp;f=MO&amp;meta=54">Last 2 Weeks</option><option value="archetype?a=348&amp;f=MO&amp;meta=57">Live Tournaments Last 2 Months</option><option value="archetype?a=348&amp;f=MO&amp;meta=163" selected>All 2018 Decks</option><option value="archetype?a=348&amp;f=MO&amp;meta=142">All 2017 Decks</option><option value="archetype?a=348&amp;f=MO&amp;meta=118">All 2016 Decks</option><option value="archetype?a=348&amp;f=MO&amp;meta=101">All 2015 Decks</option><option value="archetype?a=348&amp;f=MO&amp;meta=79">All 2014 Decks</option><option value="archetype?a=348&amp;f=MO&amp;meta=77">All 2013 Decks</option><option value="archetype?a=348&amp;f=MO&amp;meta=76">All 2012 Decks</option><option value="archetype?a=348&amp;f=MO&amp;meta=78">All 2011 Decks</option><option value="archetype?a=348&amp;f=MO&amp;meta=44">All Modern Decks</option><option value="archetype?a=348&amp;f=MO&amp;meta=92">History - All PT &amp; GP</option></select></td></tr>\n\t\t
+<tr><td colspan="6" class="S14" align="center">1817 decks</td></tr>\n\t\t
+<tr><td colspan="6" align="center"><img src="graph/line.png" width="98%" height="1"></td></tr>\n\t\t
+<tr><td rowspan="24" class="S14" align="center">Aggro<br>52 %</td><td colspan="5"></td></tr>\n\t\t
+\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S12"><a href="archetype?a=667&amp;meta=163&amp;f=MO">Humans</a></td>\n\t\t\t\t
+<td align="right" class="S10">121</td>\n\t\t\t\t
+<td align="right" class="S12">7 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S12"><a href="archetype?a=636&amp;meta=163&amp;f=MO">Death\'s Shadow</a></td>\n\t\t\t\t
+<td align="right" class="S10">107</td>\n\t\t\t\t
+<td align="right" class="S12">6 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S12"><a href="archetype?a=189&amp;meta=163&amp;f=MO">Affinity</a></td>\n\t\t\t\t
+<td align="right" class="S10">100</td>\n\t\t\t\t
+<td align="right" class="S12">6 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S12"><a href="archetype?a=552&amp;meta=163&amp;f=MO">Eldrazi Aggro</a></td>\n\t\t\t\t
+<td align="right" class="S10">99</td>\n\t\t\t\t
+<td align="right" class="S12">5 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S12"><a href="archetype?a=226&amp;meta=163&amp;f=MO">Red Deck Wins</a></td>\n\t\t\t\t
+<td align="right" class="S10">89</td>\n\t\t\t\t
+<td align="right" class="S12">5 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S12"><a href="archetype?a=183&amp;meta=163&amp;f=MO">Jund</a></td>\n\t\t\t\t
+<td align="right" class="S10">77</td>\n\t\t\t\t
+<td align="right" class="S12">4 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S12"><a href="archetype?a=767&amp;meta=163&amp;f=MO">Hollow One</a></td>\n\t\t\t\t
+<td align="right" class="S10">75</td>\n\t\t\t\t
+<td align="right" class="S12">4 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S12"><a href="archetype?a=285&amp;meta=163&amp;f=MO">Hatebear</a></td>\n\t\t\t\t
+<td align="right" class="S10">59</td>\n\t\t\t\t
+<td align="right" class="S12">3 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S12"><a href="archetype?a=299&amp;meta=163&amp;f=MO">Aura Hexproof</a></td>\n\t\t\t\t
+<td align="right" class="S10">46</td>\n\t\t\t\t
+<td align="right" class="S12">3 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S12"><a href="archetype?a=305&amp;meta=163&amp;f=MO">Junk</a></td>\n\t\t\t\t
+<td align="right" class="S10">42</td>\n\t\t\t\t
+<td align="right" class="S12">2 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S12"><a href="archetype?a=222&amp;meta=163&amp;f=MO">Bant</a></td>\n\t\t\t\t
+<td align="right" class="S10">33</td>\n\t\t\t\t
+<td align="right" class="S12">2 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=192&amp;meta=163&amp;f=MO">Merfolk</a></td>\n\t\t\t\t
+<td align="right" class="S10">25</td>\n\t\t\t\t
+<td align="right" class="S10">1 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=182&amp;meta=163&amp;f=MO">Zoo</a></td>\n\t\t\t\t
+<td align="right" class="S10">19</td>\n\t\t\t\t
+<td align="right" class="S10">1 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=475&amp;meta=163&amp;f=MO">Selesnya Aggro</a></td>\n\t\t\t\t
+<td align="right" class="S10">18</td>\n\t\t\t\t
+<td align="right" class="S10">1 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=214&amp;meta=163&amp;f=MO">Martyr Life</a></td>\n\t\t\t\t
+<td align="right" class="S10">6</td>\n\t\t\t\t
+<td align="right" class="S10">0 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=216&amp;meta=163&amp;f=MO">RUG Aggro</a></td>\n\t\t\t\t
+<td align="right" class="S10">5</td>\n\t\t\t\t
+<td align="right" class="S10">0 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=351&amp;meta=163&amp;f=MO">UR Aggro</a></td>\n\t\t\t\t
+<td align="right" class="S10">4</td>\n\t\t\t\t
+<td align="right" class="S10">0 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=300&amp;meta=163&amp;f=MO">4/5c Good Stuff</a></td>\n\t\t\t\t
+<td align="right" class="S10">4</td>\n\t\t\t\t
+<td align="right" class="S10">0 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=374&amp;meta=163&amp;f=MO">Orzhov Midrange</a></td>\n\t\t\t\t
+<td align="right" class="S10">3</td>\n\t\t\t\t
+<td align="right" class="S10">0 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=231&amp;meta=163&amp;f=MO">Jeskai Aggro</a></td>\n\t\t\t\t
+<td align="right" class="S10">2</td>\n\t\t\t\t
+<td align="right" class="S10">0 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=474&amp;meta=163&amp;f=MO">Mono Green Aggro</a></td>\n\t\t\t\t
+<td align="right" class="S10">2</td>\n\t\t\t\t
+<td align="right" class="S10">0 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=219&amp;meta=163&amp;f=MO">Tokens</a></td>\n\t\t\t\t
+<td align="right" class="S10">2</td>\n\t\t\t\t
+<td align="right" class="S10">0 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=186&amp;meta=163&amp;f=MO">Other - Aggro</a></td>\n\t\t\t\t
+<td align="right" class="S10">9</td>\n\t\t\t\t
+<td align="right" class="S10">0 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t
+<tr><td colspan="6" align="center"><img src="graph/line.png" width="98%" height="1"></td></tr>\n\t\t
+<tr><td rowspan="18" class="S14" align="center">Control<br>27 %</td><td colspan="5"></td></tr>\n\t\t
+\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S12"><a href="archetype?a=188&amp;meta=163&amp;f=MO">UrzaTron</a></td>\n\t\t\t\t
+<td align="right" class="S10">114</td>\n\t\t\t\t
+<td align="right" class="S12">6 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S12"><a href="archetype?a=209&amp;meta=163&amp;f=MO">UW Control</a></td>\n\t\t\t\t
+<td align="right" class="S10">79</td>\n\t\t\t\t
+<td align="right" class="S12">4 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S12"><a href="archetype?a=375&amp;meta=163&amp;f=MO">UR Control</a></td>\n\t\t\t\t
+<td align="right" class="S10">47</td>\n\t\t\t\t
+<td align="right" class="S12">3 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S12"><a href="archetype?a=567&amp;meta=163&amp;f=MO">Mardu Midrange</a></td>\n\t\t\t\t
+<td align="right" class="S10">46</td>\n\t\t\t\t
+<td align="right" class="S12">3 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S12"><a href="archetype?a=573&amp;meta=163&amp;f=MO">Gruul Land Loss</a></td>\n\t\t\t\t
+<td align="right" class="S10">35</td>\n\t\t\t\t
+<td align="right" class="S12">2 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S12"><a href="archetype?a=181&amp;meta=163&amp;f=MO">UWx Midrange</a></td>\n\t\t\t\t
+<td align="right" class="S10">34</td>\n\t\t\t\t
+<td align="right" class="S12">2 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=477&amp;meta=163&amp;f=MO">Grixis Control</a></td>\n\t\t\t\t
+<td align="right" class="S10">25</td>\n\t\t\t\t
+<td align="right" class="S10">1 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=531&amp;meta=163&amp;f=MO">Lantern Control</a></td>\n\t\t\t\t
+<td align="right" class="S10">20</td>\n\t\t\t\t
+<td align="right" class="S10">1 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=194&amp;meta=163&amp;f=MO">The Rock</a></td>\n\t\t\t\t
+<td align="right" class="S10">17</td>\n\t\t\t\t
+<td align="right" class="S10">1 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=662&amp;meta=163&amp;f=MO">Smallpox</a></td>\n\t\t\t\t
+<td align="right" class="S10">14</td>\n\t\t\t\t
+<td align="right" class="S10">1 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=269&amp;meta=163&amp;f=MO">Scapeshift</a></td>\n\t\t\t\t
+<td align="right" class="S10">13</td>\n\t\t\t\t
+<td align="right" class="S10">1 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=472&amp;meta=163&amp;f=MO">Mono Red Control</a></td>\n\t\t\t\t
+<td align="right" class="S10">9</td>\n\t\t\t\t
+<td align="right" class="S10">0 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=774&amp;meta=163&amp;f=MO">Tezzerator</a></td>\n\t\t\t\t
+<td align="right" class="S10">5</td>\n\t\t\t\t
+<td align="right" class="S10">0 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=571&amp;meta=163&amp;f=MO">Nahiri Control</a></td>\n\t\t\t\t
+<td align="right" class="S10">5</td>\n\t\t\t\t
+<td align="right" class="S10">0 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=223&amp;meta=163&amp;f=MO">Faeries</a></td>\n\t\t\t\t
+<td align="right" class="S10">3</td>\n\t\t\t\t
+<td align="right" class="S10">0 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=267&amp;meta=163&amp;f=MO">Delverless RUG</a></td>\n\t\t\t\t
+<td align="right" class="S10">2</td>\n\t\t\t\t
+<td align="right" class="S10">0 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=187&amp;meta=163&amp;f=MO">Other - Control</a></td>\n\t\t\t\t
+<td align="right" class="S10">15</td>\n\t\t\t\t
+<td align="right" class="S10">1 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t
+<tr><td colspan="6" align="center"><img src="graph/line.png" width="98%" height="1"></td></tr>\n\t\t
+<tr><td rowspan="16" class="S14" align="center">Combo<br>21 %</td><td colspan="5"></td></tr>\n\t\t
+\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S12"><a href="archetype?a=184&amp;meta=163&amp;f=MO">UR Storm</a></td>\n\t\t\t\t
+<td align="right" class="S10">59</td>\n\t\t\t\t
+<td align="right" class="S12">3 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S12"><a href="archetype?a=392&amp;meta=163&amp;f=MO">Valakut</a></td>\n\t\t\t\t
+<td align="right" class="S10">55</td>\n\t\t\t\t
+<td align="right" class="S12">3 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S12"><a href="archetype?a=191&amp;meta=163&amp;f=MO">Creatures Toolbox</a></td>\n\t\t\t\t
+<td align="right" class="S10">55</td>\n\t\t\t\t
+<td align="right" class="S12">3 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S12"><a href="archetype?a=233&amp;meta=163&amp;f=MO">Living End</a></td>\n\t\t\t\t
+<td align="right" class="S10">39</td>\n\t\t\t\t
+<td align="right" class="S12">2 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S12"><a href="archetype?a=275&amp;meta=163&amp;f=MO">Dredge</a></td>\n\t\t\t\t
+<td align="right" class="S10">34</td>\n\t\t\t\t
+<td align="right" class="S12">2 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=566&amp;meta=163&amp;f=MO">Elves</a></td>\n\t\t\t\t
+<td align="right" class="S10">27</td>\n\t\t\t\t
+<td align="right" class="S10">1 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=196&amp;meta=163&amp;f=MO">Infect</a></td>\n\t\t\t\t
+<td align="right" class="S10">23</td>\n\t\t\t\t
+<td align="right" class="S10">1 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="chosen_tr">\n\t\t\t\t
+<td class="W10"><a class="topic" href="archetype?a=348&amp;meta=163&amp;f=MO">Bloomless Titan</a></td>\n\t\t\t\t
+<td align="right" class="W10">19</td>\n\t\t\t\t
+<td align="right" class="W10">1 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=355&amp;meta=163&amp;f=MO">Ad Nauseam</a></td>\n\t\t\t\t
+<td align="right" class="S10">17</td>\n\t\t\t\t
+<td align="right" class="S10">1 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=312&amp;meta=163&amp;f=MO">Instant Reanimator</a></td>\n\t\t\t\t
+<td align="right" class="S10">14</td>\n\t\t\t\t
+<td align="right" class="S10">1 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=775&amp;meta=163&amp;f=MO">KCI</a></td>\n\t\t\t\t
+<td align="right" class="S10">14</td>\n\t\t\t\t
+<td align="right" class="S10">1 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=628&amp;meta=163&amp;f=MO">Walks</a></td>\n\t\t\t\t
+<td align="right" class="S10">8</td>\n\t\t\t\t
+<td align="right" class="S10">0 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=190&amp;meta=163&amp;f=MO">Twin Exarch</a></td>\n\t\t\t\t
+<td align="right" class="S10">8</td>\n\t\t\t\t
+<td align="right" class="S10">0 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=384&amp;meta=163&amp;f=MO">Jeskai Ascendancy</a></td>\n\t\t\t\t
+<td align="right" class="S10">1</td>\n\t\t\t\t
+<td align="right" class="S10">0 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr>\n\t\t\t\t<tr class="hover_tr">\n\t\t\t\t
+<td class="S10"><a href="archetype?a=185&amp;meta=163&amp;f=MO">Other - Combo</a></td>\n\t\t\t\t
+<td align="right" class="S10">14</td>\n\t\t\t\t
+<td align="right" class="S10">1 %</td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t
+<td align="center"></td>\n\t\t\t\t</tr></table></td>\n
+
+<td valign="top" width="66%" align="left">\n<form method="POST" action="compare" name="compare_decks">\n<table border="0" class="Stable" align="center" width="99%">\n \n
+<tr><td colspan="7"><div class="w_title" align="center">Bloomless Titan decks</div></td></tr>\n\t<tr>\n\t
+<td><input type="checkbox" name="checkall" value="1" checked onclick="CheckAll()"></td>\n\t
+<td>Deck</td>\n\t
+<td>Player</td>\n\t
+<td>Event</td>\n\t
+<td>Level</td>\n\t
+<td>Rank</td>\n\t
+<td>Date</td>\n\t</tr>\n\t\n\t<tr class="hover_tr">\n\t
+<td><input type="checkbox" name="deck_check[1]" value="1" checked><input type="hidden" name="deck_ref[1]" value="319625"></td>\n\t
+<td><a href="event?e=19012&amp;d=319625&amp;f=MO">Amulet Titan</a></td>\n\t
+<td><a class="player" href="search?player=Michael+Mapson">Michael Mapson</a></td>\n\t
+<td><a href="event?e=19012&amp;f=MO">GP Hartford 2018</a></td>\n\t
+<td class="O16"><img src="graph/bigstar.png" height="16"></td>\n\t
+<td>2</td>\n\t
+<td>15/04/18</td>\n\t</tr>\n\t<tr class="hover_tr">\n\t
+<td><input type="checkbox" name="deck_check[2]" value="1" checked><input type="hidden" name="deck_ref[2]" value="318839"></td>\n\t
+<td><a href="event?e=18935&amp;d=318839&amp;f=MO">Amulet Titan</a></td>\n\t
+<td><a class="player" href="search?player=Mikkel+Krabbe+Nielsen">Mikkel Krabbe Nielsen</a></td>\n\t
+<td><a href="event?e=18935&amp;f=MO">Modern @ Aarhus Magicforening (Aarhus, Denmark)</a></td>\n\t
+<td class="O16"><img src="graph/star.png"><img src="graph/star.png"></td>\n\t
+<td>5-8</td>\n\t
+<td>07/04/18</td>\n\t</tr>\n\t<tr class="hover_tr">\n\t
+<td><input type="checkbox" name="deck_check[3]" value="1" checked><input type="hidden" name="deck_ref[3]" value="318843"></td>\n\t
+<td><a href="event?e=18935&amp;d=318843&amp;f=MO">Amulet Titan</a></td>\n\t
+<td><a class="player" href="search?player=Daniel+Johnsen">Daniel Johnsen</a></td>\n\t
+<td><a href="event?e=18935&amp;f=MO">Modern @ Aarhus Magicforening (Aarhus, Denmark)</a></td>\n\t
+<td class="O16"><img src="graph/star.png"><img src="graph/star.png"></td>\n\t
+<td>1</td>\n\t
+<td>07/04/18</td>\n\t</tr>\n\t<tr class="hover_tr">\n\t
+<td><input type="checkbox" name="deck_check[4]" value="1" checked><input type="hidden" name="deck_ref[4]" value="318901"></td>\n\t
+<td><a href="event?e=18941&amp;d=318901&amp;f=MO">Amulet Titan</a></td>\n\t
+<td><a class="player" href="search?player=John+Louie+Jaime">John Louie Jaime</a></td>\n\t
+<td><a href="event?e=18941&amp;f=MO">Block 101 Modern Super Series II (2nd leg)</a></td>\n\t
+<td class="O16"><img src="graph/star.png"><img src="graph/star.png"></td>\n\t
+<td>5-8</td>\n\t
+<td>07/04/18</td>\n\t</tr>\n\t<tr class="hover_tr">\n\t
+<td><input type="checkbox" name="deck_check[5]" value="1" checked><input type="hidden" name="deck_ref[5]" value="318371"></td>\n\t
+<td><a href="event?e=18897&amp;d=318371&amp;f=MO">Bloomless Titan</a></td>\n\t
+<td><a class="player" href="search?player=Daryl_ayers">Daryl_ayers</a></td>\n\t
+<td><a href="event?e=18897&amp;f=MO">MTGO Modern MOCS</a></td>\n\t
+<td class="O16"><img src="graph/star.png"><img src="graph/star.png"><img src="graph/star.png"></td>\n\t
+<td>9</td>\n\t
+<td>02/04/18</td>\n\t</tr>\n\t<tr class="hover_tr">\n\t
+<td><input type="checkbox" name="deck_check[6]" value="1" checked><input type="hidden" name="deck_ref[6]" value="318625"></td>\n\t
+<td><a href="event?e=18913&amp;d=318625&amp;f=MO">Bloomless Titan</a></td>\n\t
+<td><a class="player" href="search?player=p33kachun">p33kachun</a></td>\n\t
+<td><a href="event?e=18913&amp;f=MO">MTGO Modern Challenge</a></td>\n\t
+<td class="O16"><img src="graph/star.png"><img src="graph/star.png"></td>\n\t
+<td>4</td>\n\t
+<td>01/04/18</td>\n\t</tr>\n\t<tr class="hover_tr">\n\t
+<td><input type="checkbox" name="deck_check[7]" value="1" checked><input type="hidden" name="deck_ref[7]" value="317961"></td>\n\t
+<td><a href="event?e=18848&amp;d=317961&amp;f=MO">Bloomless Titan</a></td>\n\t
+<td><a class="player" href="search?player=Austin+Robbins">Austin Robbins</a></td>\n\t
+<td><a href="event?e=18848&amp;f=MO">SCG Classic Cincinnati</a></td>\n\t
+<td class="O16"><img src="graph/star.png"><img src="graph/star.png"><img src="graph/star.png"></td>\n\t
+<td>5-8</td>\n\t
+<td>25/03/18</td>\n\t</tr>\n\t<tr class="hover_tr">\n\t
+<td><input type="checkbox" name="deck_check[8]" value="1" checked><input type="hidden" name="deck_ref[8]" value="317938"></td>\n\t
+<td><a href="event?e=18845&amp;d=317938&amp;f=MO">Bloomless Titan</a></td>\n\t
+<td><a class="player" href="search?player=Edgar+Magalhaes">Edgar Magalhaes</a></td>\n\t
+<td><a href="event?e=18845&amp;f=MO">SCG Team Open Cincinnati</a></td>\n\t
+<td class="O16"><img src="graph/star.png"><img src="graph/star.png"><img src="graph/star.png"></td>\n\t
+<td>3-4</td>\n\t
+<td>24/03/18</td>\n\t</tr>\n\t<tr class="hover_tr">\n\t
+<td><input type="checkbox" name="deck_check[9]" value="1" checked><input type="hidden" name="deck_ref[9]" value="318565"></td>\n\t
+<td><a href="event?e=18910&amp;d=318565&amp;f=MO">Bloomless Titan</a></td>\n\t
+<td><a class="player" href="search?player=egadd2894">egadd2894</a></td>\n\t
+<td><a href="event?e=18910&amp;f=MO">MTGO Competitive Modern League</a></td>\n\t
+<td class="O16"><img src="graph/star.png"></td>\n\t
+<td>8</td>\n\t
+<td>20/03/18</td>\n\t</tr>\n\t<tr class="hover_tr">\n\t
+<td><input type="checkbox" name="deck_check[10]" value="1" checked><input type="hidden" name="deck_ref[10]" value="317553"></td>\n\t
+<td><a href="event?e=18794&amp;d=317553&amp;f=MO">Amulet Titan</a></td>\n\t
+<td><a class="player" href="search?player=Zachary+Lacy">Zachary Lacy</a></td>\n\t
+<td><a href="event?e=18794&amp;f=MO">Card Addicts Trial 2 - Team Constructed</a></td>\n\t
+<td class="O16"><img src="graph/star.png"><img src="graph/star.png"></td>\n\t
+<td>3-4</td>\n\t
+<td>18/03/18</td>\n\t</tr>\n\t<tr class="hover_tr">\n\t
+<td><input type="checkbox" name="deck_check[11]" value="1" checked><input type="hidden" name="deck_ref[11]" value="316810"></td>\n\t
+<td><a href="event?e=18707&amp;d=316810&amp;f=MO">Bloomless Titan</a></td>\n\t
+<td><a class="player" href="search?player=Lo,+Josh">Lo, Josh</a></td>\n\t
+<td><a href="event?e=18707&amp;f=MO">Block 101 Modern Super Series II</a></td>\n\t
+<td class="O16"><img src="graph/star.png"><img src="graph/star.png"></td>\n\t
+<td>5-8</td>\n\t
+<td>10/03/18</td>\n\t</tr>\n\t<tr class="hover_tr">\n\t
+<td><input type="checkbox" name="deck_check[12]" value="1" checked><input type="hidden" name="deck_ref[12]" value="316438"></td>\n\t
+<td><a href="event?e=18669&amp;d=316438&amp;f=MO">Bloomless Titan</a></td>\n\t
+<td><a class="player" href="search?player=Ian+Bosley">Ian Bosley</a></td>\n\t
+<td><a href="event?e=18669&amp;f=MO">SCG Classic Worcester</a></td>\n\t
+<td class="O16"><img src="graph/star.png"><img src="graph/star.png"><img src="graph/star.png"></td>\n\t
+<td>5-8</td>\n\t
+<td>04/03/18</td>\n\t</tr>\n\t<tr class="hover_tr">\n\t
+<td><input type="checkbox" name="deck_check[13]" value="1" checked><input type="hidden" name="deck_ref[13]" value="315823"></td>\n\t
+<td><a href="event?e=18601&amp;d=315823&amp;f=MO">Amulet Titan</a></td>\n\t
+<td><a class="player" href="search?player=Josh+Leander+Lo">Josh Leander Lo</a></td>\n\t
+<td><a href="event?e=18601&amp;f=MO">Gatecrashers Anonas 20K Modern</a></td>\n\t
+<td class="O16"><img src="graph/star.png"></td>\n\t
+<td>5-8</td>\n\t
+<td>24/02/18</td>\n\t</tr>\n\t<tr class="hover_tr">\n\t
+<td><input type="checkbox" name="deck_check[14]" value="1" checked><input type="hidden" name="deck_ref[14]" value="315993"></td>\n\t
+<td><a href="event?e=18619&amp;d=315993&amp;f=MO">Amulet Titan</a></td>\n\t
+<td><a class="player" href="search?player=Felix+Stenitzer">Felix Stenitzer</a></td>\n\t
+<td><a href="event?e=18619&amp;f=MO">Modern Open Klagenfurt</a></td>\n\t
+<td class="O16"><img src="graph/star.png"></td>\n\t
+<td>3-4</td>\n\t
+<td>17/02/18</td>\n\t</tr>\n\t<tr class="hover_tr">\n\t
+<td><input type="checkbox" name="deck_check[15]" value="1" checked><input type="hidden" name="deck_ref[15]" value="314593"></td>\n\t
+<td><a href="event?e=18447&amp;d=314593&amp;f=MO">Amulet Titan</a></td>\n\t
+<td><a class="player" href="search?player=Edgar+Magalhaes">Edgar Magalhaes</a></td>\n\t
+<td><a href="event?e=18447&amp;f=MO">GP Toronto</a></td>\n\t
+<td class="O16"><img src="graph/bigstar.png" height="16"></td>\n\t
+<td>9-16</td>\n\t
+<td>11/02/18</td>\n\t</tr>\n\t<tr class="hover_tr">\n\t
+<td><input type="checkbox" name="deck_check[16]" value="1" checked><input type="hidden" name="deck_ref[16]" value="315196"></td>\n\t
+<td><a href="event?e=18517&amp;d=315196&amp;f=MO">Amulet Titan</a></td>\n\t
+<td><a class="player" href="search?player=Samuel+Skolrud">Samuel Skolrud</a></td>\n\t
+<td><a href="event?e=18517&amp;f=MO">Geek Fortress Modern 1k</a></td>\n\t
+<td class="O16"><img src="graph/star.png"><img src="graph/star.png"></td>\n\t
+<td>3-4</td>\n\t
+<td>11/02/18</td>\n\t</tr>\n\t<tr class="hover_tr">\n\t
+<td><input type="checkbox" name="deck_check[17]" value="1" checked><input type="hidden" name="deck_ref[17]" value="315250"></td>\n\t
+<td><a href="event?e=18525&amp;d=315250&amp;f=MO">Amulet Combo</a></td>\n\t
+<td><a class="player" href="search?player=Danillo+%22bill%22+Santos">Danillo "bill" Santos</a></td>\n\t
+<td><a href="event?e=18525&amp;f=MO">1\xba Etapa Copa GeeK Pit</a></td>\n\t
+<td class="O16"><img src="graph/star.png"></td>\n\t
+<td>1</td>\n\t
+<td>04/02/18</td>\n\t</tr>\n\t<tr class="hover_tr">\n\t
+<td><input type="checkbox" name="deck_check[18]" value="1" checked><input type="hidden" name="deck_ref[18]" value="314613"></td>\n\t
+<td><a href="event?e=18448&amp;d=314613&amp;f=MO">Bloomless Titan</a></td>\n\t
+<td><a class="player" href="search?player=p33kachun">p33kachun</a></td>\n\t
+<td><a href="event?e=18448&amp;f=MO">MTGO Modern Challenge</a></td>\n\t
+<td class="O16"><img src="graph/star.png"></td>\n\t
+<td>13</td>\n\t
+<td>28/01/18</td>\n\t</tr>\n\t<tr class="hover_tr">\n\t
+<td><input type="checkbox" name="deck_check[19]" value="1" checked><input type="hidden" name="deck_ref[19]" value="312466"></td>\n\t
+<td><a href="event?e=18142&amp;d=312466&amp;f=MO">Bloomless Titan</a></td>\n\t
+<td><a class="player" href="search?player=PuntThenWhine">PuntThenWhine</a></td>\n\t
+<td><a href="event?e=18142&amp;f=MO">MTGO Competitive Modern League</a></td>\n\t
+<td class="O16"><img src="graph/star.png"></td>\n\t
+<td>3</td>\n\t
+<td>12/01/18</td>\n\t</tr>\n\t<tr>\n\t
+<td colspan="7"><input type="submit" value="Compare Decks"></td>\n\t</tr>\n</table>\n</form></td>\n
+</tr>\n</table>']
