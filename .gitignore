@@ -1,0 +1,5 @@
+*.txt
+formatted_decks/*
+processed_decks/*
+decks/*
+*.pyc
