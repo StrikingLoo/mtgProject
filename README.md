@@ -8,3 +8,4 @@ The scripts I made for the processing and analysis of the collected dataset, and
 
 Generating a dataset of casual decks, or budget ones, will be an interesting project for the future, if I ever come back to it.
 
+The dataset is also made public for analysis, and I would appreciate mentions from anyone who gained an interesting insight from it, as well as a mention to mtgtop8, which are our source of data.
